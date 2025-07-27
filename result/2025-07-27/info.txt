@@ -1,0 +1,7 @@
+Symbol: ETHBTC
+Initial Balance: $1000 -> Final Balance: $993.66
+Total Return: -0.63%
+Trading Win Rate: 63.2% (12/19 profitable)
+Total Trades: 19
+Long  Win Rate: 55.56% (5/9)
+Short Win Rate: 70.00% (7/10)
