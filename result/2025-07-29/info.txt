@@ -1,0 +1,7 @@
+Symbol: BTCUSDT
+Initial Balance: $1000 -> Final Balance: $1005.73
+Total Return: +0.57%
+Trading Win Rate: 61.3% (19/31 profitable)
+Total Trades: 31
+Long  Win Rate: 56.25% (9/16)
+Short Win Rate: 66.67% (10/15)
