@@ -2,6 +2,9 @@
 
 A project for building, training, and evaluating machine learning models to predict Bitcoin trading signals using Binance API data.
 
+## Story
+[Click Here!](https://medium.com/@BadLuckZ/building-crypto-trading-signal-models-from-api-to-machine-learning-models-f374cda06eda) (Thai Version)
+
 ## Features
 
 - Collects historical price data from Binance API
