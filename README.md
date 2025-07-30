@@ -1,4 +1,4 @@
-# Bitcoin Trading Model 101
+# Bitcoin Signal Prediction
 
 A project for building, training, and evaluating machine learning models to predict Bitcoin trading signals using Binance API data.
 
